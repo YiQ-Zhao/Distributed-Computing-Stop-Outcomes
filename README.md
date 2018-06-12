@@ -10,7 +10,7 @@ The goal of this analysis was to predict whether or not a traffic or pedestrain 
 
 ## Methods
 ### Pipeline
-![pipeline](/imgs/pipelines.png)
+![pipeline](/imgs/pipelines.png)<!-- .element height="50%" width="50%" -->
 
 ### Data preprocessing
 - Handle missing data
@@ -24,7 +24,7 @@ The goal of this analysis was to predict whether or not a traffic or pedestrain 
 
 ## Results
 ### Processing time comparison
-![comparison](/imgs/comparison.png)
+![comparison](/imgs/comparison.png)<!-- .element height="50%" width="50%" -->
 ### Findings
 - Collision/aggressive driving are more likely to lead to an arrest (duh….)
 - Female officers are 15% less likely to make an arrest
